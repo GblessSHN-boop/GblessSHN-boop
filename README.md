@@ -9,7 +9,8 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  Gland Jermano Blessed Siahaan
+  <strong>Gland Jermano Blessed Siahaan</strong><br>
+  Aspiring Web Developer • HTML Fundamentals
 </p>
 
----
+<hr>
