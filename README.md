@@ -12,8 +12,9 @@ Tools & Development Environment
 <p align="center"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> </p> <p align="center"> My primary tools for writing, managing, and collaborating on code projects. </p>
 ---
 
-## 📊 GitHub Statistics
+ GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GblessSHN-boop&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GblessSHN-boop&show_icons=true&theme=tokyonight" />
 </p>
+
