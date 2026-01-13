@@ -13,5 +13,6 @@ Tools & Development Environment
 ---
 
  GitHub Statistics
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GblessSHN-boop&show_icons=true&theme=tokyonight" />
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GblessSHN-boop&theme=tokyonight" />
+</p>
