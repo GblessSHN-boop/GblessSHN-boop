@@ -12,3 +12,36 @@ Tools & Development Environment
 <p align="center"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> </p> <p align="center"> My primary tools for writing, managing, and collaborating on code projects. </p>
 ---
 
+## Top Projects
+
+
+
+
+
+
+
+
+
+
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GblessSHN-boop&show_icons=true&theme=radical)
+
+- Public Repositories: 8
+- Followers: 4
+- Following: 3
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GblessSHN-boop&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Recent Activity
+
+- Committed changes to [**html-fundamentals-learning**](https://github.com/GblessSHN-boop/html-fundamentals-learning) on January 18, 2026.
+- Pushed updates to [**css-fundamentals-learning**](https://github.com/GblessSHN-boop/css-fundamentals-learning) on January 18, 2026.
+- Updated [**web-development-learning**](https://github.com/GblessSHN-boop/web-development-learning) on January 17, 2026.
+
+## Latest Blog Posts
+
+Currently, I do not have any blog posts. Stay tuned for updates!
+
+## Connect with Me
+
+<a href="https://instagram.com/glandshn" target="_blank" rel="noopener noreferrer"><Icon /> Instagram</a> | <a href="https://www.youtube.com/@glandjermanoblessedsiahaan" target="_blank" rel="noopener noreferrer"><Icon /> Youtube</a> | <a href="https://linkedin.com/in/glandsiahaan" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a>
