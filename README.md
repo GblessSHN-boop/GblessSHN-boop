@@ -89,6 +89,18 @@ Pushed updates to
 [**css-fundamentals-learning**](https://github.com/GblessSHN-boop/css-fundamentals-learning)  
 <sub>🗓 January 18, 2026</sub>
 
+---
+
+<!-- Web Development -->
+<p>
+  <img src="https://img.shields.io/badge/Web%20Development-000000?style=flat&logo=googlechrome&logoColor=white"/>
+</p>
+
+Updated  
+[**web-development-learning**](https://github.com/GblessSHN-boop/web-development-learning)  
+<sub>🗓 January 17, 2026</sub>
+
+
 </div>
 
 ---
