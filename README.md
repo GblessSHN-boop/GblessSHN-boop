@@ -41,28 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=GblessSHN-boop&show_icons=true&theme=radical" 
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GblessSHN-boop&layout=compact&theme=dark" 
-    alt="Top Languages"
-  />
-</p>
-
-- **Public Repositories:** 8  
-- **Followers:** 4  
-- **Following:** 3  
-
----
-
 ## 🧭 Recent Activity
 
 <div align="center">
@@ -74,48 +52,23 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
 </p>
 
-Committed changes to  
 [**html-fundamentals-learning**](https://github.com/GblessSHN-boop/html-fundamentals-learning)  
-<sub>🗓 January 18, 2026</sub>
 
 ---
-
 <!-- CSS -->
 <p>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 </p>
 
-Pushed updates to  
 [**css-fundamentals-learning**](https://github.com/GblessSHN-boop/css-fundamentals-learning)  
-<sub>🗓 January 18, 2026</sub>
 
 ---
-
 <!-- Web Development -->
 <p>
   <img src="https://img.shields.io/badge/Web%20Development-000000?style=flat&logo=googlechrome&logoColor=white"/>
 </p>
 
-Updated  
 [**web-development-learning**](https://github.com/GblessSHN-boop/web-development-learning)  
-<sub>🗓 January 17, 2026</sub>
-
-
-</div>
-
----
-
-<div align="center">
-
-## 📝 Latest Blog Posts
-
-Currently, I do not have any blog posts.  
-Stay tuned for future updates 🚀
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 
 ---
 
