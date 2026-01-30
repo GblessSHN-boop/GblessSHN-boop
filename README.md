@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://media.licdn.com/dms/image/v2/D5616AQEUp8FDRJGmfQ/profile-displaybackgroundimage-shrink_350_1400/B56ZuMNKYTJIAY-/0/1767583820226?e=1769644800&v=beta&t=VU_1yVNn0MeiQSBkNYFL5YPp9xfnKv22sizxG_sA1I0" 
+    src="[https://media.licdn.com/dms/image/v2/D5616AQEUp8FDRJGmfQ/profile-displaybackgroundimage-shrink_350_1400/B56ZuMNKYTJIAY-/0/1767583820226?e=1769644800&v=beta&t=VU_1yVNn0MeiQSBkNYFL5YPp9xfnKv22sizxG_sA1I0](https://media.licdn.com/dms/image/v2/D5616AQEUp8FDRJGmfQ/profile-displaybackgroundimage-shrink_350_1400/B56ZuMNKYTJIAY-/0/1767583820226?e=1771459200&v=beta&t=iH6by1KHUpzLYEAgNLzK4qglVRbIpDdvkMvg2JGuJJo)" 
     alt="GLAND SIAHAAN Banner" 
     width="600"
   />
