@@ -37,7 +37,13 @@ I use vibe coding as a practical learning method. It helps me move from ideas in
 
 <div align="center">
 
-<img src="./assets/animation/name-animation.gif" alt="Gland Jermano Blessed Siahaan animated name" width="850" />
+<a href="https://www.tiktok.com/@glandshn7/video/7645906526535798034?is_from_webapp=1&sender_device=pc">
+  <img src="./assets/animation/name-animation.gif" alt="Gland Jermano Blessed Siahaan animated profile" width="850" />
+</a>
+
+<br>
+
+<sub>Click the animation to watch the full video on TikTok</sub>
 
 </div>
 
@@ -45,37 +51,74 @@ I use vibe coding as a practical learning method. It helps me move from ideas in
 
 ## Current Focus
 
-<p>
-  <img src="https://img.shields.io/badge/Web%20Development-HTML%20CSS%20JavaScript-1f2937?style=flat" />
-  <img src="https://img.shields.io/badge/Mobile%20Development-Flutter%20Dart-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend%20Learning-Python%20Flask-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database%20Learning-MySQL%20PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Workflow-AI%20Assisted%20Development-111827?style=flat" />
-</p>
-
 I am currently focused on building real projects, learning project structure, improving documentation, and using AI tools as a support system for planning, coding, debugging, and iteration.
 
+<table>
+  <tr>
+    <td><strong>Project Based Learning</strong></td>
+    <td>Building web and mobile projects as learning documentation.</td>
+  </tr>
+  <tr>
+    <td><strong>AI Assisted Development</strong></td>
+    <td>Using AI tools to support planning, coding, debugging, documentation, and improvement.</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend Structure</strong></td>
+    <td>Learning layout, styling, page structure, reusable components, and responsive design.</td>
+  </tr>
+  <tr>
+    <td><strong>Mobile Application</strong></td>
+    <td>Exploring Flutter, Dart, local data, Firebase, and mobile user experience.</td>
+  </tr>
+  <tr>
+    <td><strong>Project Management</strong></td>
+    <td>Organizing folders, README files, assets, versioning, and Git workflow.</td>
+  </tr>
+</table>
+
 ---
 
-## Coding Icons
+## Tech and Creative Stack
 
 <div align="center">
 
-<img src="https://skill-icons-snowy.vercel.app/api/icons?i=html,css,js,py,tailwind,github,vscode,chatgpt&perline=8&t=dark" alt="Coding icons" />
+### Coding, Development, OS, and AI Tools
 
-</div>
+<img src="https://skill-icons-snowy.vercel.app/api/icons?i=html,css,js,py,tailwind,astro,flutter,dart,firebase,mysql,postgresql,flask,git,github,vscode,windows,chatgpt&perline=9&t=dark" alt="Coding, development, OS, and AI tools" />
 
----
+<br><br>
 
-## Design and Editing Tools
+### Creative and Design Tools
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Canva-Visual%20Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerPoint-Presentation%20Design-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-Image%20Editing-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/Illustrator-Vector%20Design-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-<img src="https://img.shields.io/badge/After%20Effects-Motion%20Design-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="./assets/icons/canva.svg" width="52" height="52" alt="Canva" />
+      <br>
+      <sub><strong>Canva</strong></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="./assets/icons/powerpoint.svg" width="52" height="52" alt="PowerPoint" />
+      <br>
+      <sub><strong>PowerPoint</strong></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="./assets/icons/photoshop.svg" width="52" height="52" alt="Photoshop" />
+      <br>
+      <sub><strong>Photoshop</strong></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="./assets/icons/illustrator.svg" width="52" height="52" alt="Illustrator" />
+      <br>
+      <sub><strong>Illustrator</strong></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="./assets/icons/after-effects.svg" width="52" height="52" alt="After Effects" />
+      <br>
+      <sub><strong>After Effects</strong></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -147,46 +190,6 @@ This composition is based on my personal self assessment. It is not an expert cl
     <td>█</td>
   </tr>
 </table>
-
----
-
-## Tech Stack I Am Learning
-
-### Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
-</p>
-
-### Mobile
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-</p>
-
-### Backend and Database
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white" />
-</p>
 
 ---
 
