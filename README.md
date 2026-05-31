@@ -33,6 +33,16 @@ I use vibe coding as a practical learning method. It helps me move from ideas in
 
 ---
 
+## Animated Profile
+
+<div align="center">
+
+<img src="./assets/animation/name-animation.gif" alt="Gland Jermano Blessed Siahaan animated name" width="850" />
+
+</div>
+
+---
+
 ## Current Focus
 
 <p>
@@ -43,28 +53,98 @@ I use vibe coding as a practical learning method. It helps me move from ideas in
   <img src="https://img.shields.io/badge/Workflow-AI%20Assisted%20Development-111827?style=flat" />
 </p>
 
-I am currently focused on:
+I am currently focused on building real projects, learning project structure, improving documentation, and using AI tools as a support system for planning, coding, debugging, and iteration.
+
+---
+
+## Coding Icons
+
+<div align="center">
+
+<img src="https://skill-icons-snowy.vercel.app/api/icons?i=html,css,js,py,tailwind,github,vscode,chatgpt&perline=8&t=dark" alt="Coding icons" />
+
+</div>
+
+---
+
+## Design and Editing Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Canva-Visual%20Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerPoint-Presentation%20Design-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-Image%20Editing-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Illustrator-Vector%20Design-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/After%20Effects-Motion%20Design-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+
+</div>
+
+---
+
+## Skill Composition
+
+This composition is based on my personal self assessment. It is not an expert claim. It shows where my current learning strength and creative workflow are focused.
 
 <table>
   <tr>
-    <td><strong>Project based learning</strong></td>
-    <td>Building real web and mobile projects as learning documentation.</td>
+    <th>Skill or Tool</th>
+    <th>Composition</th>
+    <th>Visual</th>
   </tr>
   <tr>
-    <td><strong>AI assisted development</strong></td>
-    <td>Using AI tools to support planning, coding, debugging, documentation, and iteration.</td>
+    <td><strong>AI Assisted Development Workflow</strong></td>
+    <td>31.47%</td>
+    <td>███████████████████████████████</td>
   </tr>
   <tr>
-    <td><strong>Frontend structure</strong></td>
-    <td>Learning layout, styling, page structure, reusable components, and responsive design.</td>
+    <td><strong>Canva</strong></td>
+    <td>31.47%</td>
+    <td>███████████████████████████████</td>
   </tr>
   <tr>
-    <td><strong>Mobile application</strong></td>
-    <td>Exploring Flutter, Dart, local data, Firebase, and mobile user experience.</td>
+    <td><strong>PowerPoint Design</strong></td>
+    <td>20.98%</td>
+    <td>█████████████████████</td>
   </tr>
   <tr>
-    <td><strong>Project management</strong></td>
-    <td>Organizing folders, README files, assets, documentation, versioning, and Git workflow.</td>
+    <td><strong>HTML</strong></td>
+    <td>5.24%</td>
+    <td>█████</td>
+  </tr>
+  <tr>
+    <td><strong>Photoshop</strong></td>
+    <td>3.50%</td>
+    <td>████</td>
+  </tr>
+  <tr>
+    <td><strong>Python</strong></td>
+    <td>1.75%</td>
+    <td>██</td>
+  </tr>
+  <tr>
+    <td><strong>Illustrator</strong></td>
+    <td>1.75%</td>
+    <td>██</td>
+  </tr>
+  <tr>
+    <td><strong>After Effects</strong></td>
+    <td>1.74%</td>
+    <td>██</td>
+  </tr>
+  <tr>
+    <td><strong>CSS</strong></td>
+    <td>0.70%</td>
+    <td>█</td>
+  </tr>
+  <tr>
+    <td><strong>JavaScript</strong></td>
+    <td>0.70%</td>
+    <td>█</td>
+  </tr>
+  <tr>
+    <td><strong>Tailwind CSS</strong></td>
+    <td>0.70%</td>
+    <td>█</td>
   </tr>
 </table>
 
@@ -191,18 +271,6 @@ I am currently focused on:
     <td>Write README files, explain the stack, describe features, and track project progress.</td>
   </tr>
 </table>
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GblessSHN-boop&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GblessSHN-boop&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
 
 ---
 
