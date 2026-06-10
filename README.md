@@ -84,9 +84,13 @@ I am currently focused on building real projects, learning project structure, im
 
 ### Coding, Development, OS, and AI Tools
 
-<img src="https://skill-icons-snowy.vercel.app/api/icons?i=html,css,js,py,tailwind,astro,flutter,dart,firebase,mysql,postgresql,flask,git,github,vscode,windows,chatgpt&perline=9&t=dark" alt="Coding, development, OS, and AI tools" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,tailwind,astro,flutter,dart,firebase,mysql,postgres,flask,git,github,vscode,windows&theme=dark&perline=8" alt="Coding, development, OS, and AI tools" />
+</p>
 
-<br><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+</p>
 
 ### Creative and Design Tools
 
