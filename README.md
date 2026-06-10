@@ -88,9 +88,17 @@ I am currently focused on building real projects, learning project structure, im
   <img src="https://skillicons.dev/icons?i=html,css,js,py,tailwind,astro,flutter,dart,firebase,mysql,postgres,flask,git,github,vscode,windows&theme=dark&perline=8" alt="Coding, development, OS, and AI tools" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-AI%20Vibe%20Coding-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT AI Vibe Coding" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="./assets/icons/icons8-chatgpt-m_sharp-96.png" width="52" height="52" alt="ChatGPT" />
+      <br>
+      <sub><strong>ChatGPT</strong></sub>
+      <br>
+      <sub>AI Vibe Coding</sub>
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
