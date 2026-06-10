@@ -89,8 +89,10 @@ I am currently focused on building real projects, learning project structure, im
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/ChatGPT-AI%20Vibe%20Coding-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT AI Vibe Coding" />
 </p>
+
+<br><br>
 
 ### Creative and Design Tools
 
